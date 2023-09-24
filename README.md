@@ -146,7 +146,7 @@ Voici un graphique produit par [ohsomeNow Stats](https://stats.now.ohsome.org/da
 
 ![Editions heure par heure](stats/20230923-edits-by-hours.png)
 
-Un autre graphique avec toutes les éditions par jour entre le 27 Aout et le 24 septembre :
+Un autre graphique avec toutes les éditions par jour entre le 27 Juillet et le 24 septembre :
 
 ![Toutes les éditions](stats/total-edits.png)
 
