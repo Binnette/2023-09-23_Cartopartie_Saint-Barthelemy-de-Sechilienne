@@ -7,7 +7,11 @@ Read the summary of the Mapping Party:
 
 ## About compare gifs on the website 
 
-- [Details on how I made the compare gifs](gifs.md)
+- [How I made the compare gifs](gifs.md)
+
+## About the features stats before/after the mapathon
+
+- [How I made my custom stats](stats/stats.md)
 
 ## About the theme used on the website
 
