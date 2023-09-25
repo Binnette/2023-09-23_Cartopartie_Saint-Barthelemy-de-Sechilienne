@@ -77,7 +77,7 @@ Chemin sous le Broue :
 
 ![Chemin sous le Broue](gif/CartoSBDS-012.gif)
 
-Many other gifs are available on my GitHub repo. I also had fun using different map renderings.
+Many other gifs are available on my [GitHub repo](https://github.com/Binnette/2023-09-23_Cartopartie_Saint-Barthelemy-de-Sechilienne). I also had fun using different map renderings.
 
 OSM France rendering:
 
@@ -93,7 +93,7 @@ During this mapathon, 179 roads (of all kinds) were added, including 50 tracks a
 
 On the house number side (house number), we went from only 1 number listed to more than 94! A good step forward, but there is still work to be done.
 
-Here are the detailed statistics that I generated via Osmosis:
+Here are the detailed statistics that I generated via [Osmosis](https://wiki.openstreetmap.org/wiki/Osmosis):
 
 |Objects                                    |2023-09-14|2023-09-23|Added |
 |-------------------------------------------|----------|----------|------|
@@ -106,7 +106,7 @@ Here are the detailed statistics that I generated via Osmosis:
 |Highway nodes (signs, pedestrian crossings)|11        |24        |13    |
 |Stop signs                                 |5         |6         |1     |
 |Give way                                   |0         |2         |2     |
-|Bus stop                                   |5         |5         |0     |
+|Bus stops                                  |5         |5         |0     |
 |Pedestrian crossing                        |1         |2         |1     |
 |Shops                                      |0         |1         |1     |
 |Amenities                                  |21        |47        |26    |
@@ -201,6 +201,7 @@ We can see that this mapathon was particularly productive. With more than 6,214 
 A beautiful day masterfully organized by Paul. Thanks to all the contributors present:
 - [barnes38](https://www.openstreetmap.org/user/barnes38) (alias Paul)
 - [NicolasGrosjean](https://www.openstreetmap.org/user/NicolasGrosjean)
+- [colargol](https://www.openstreetmap.org/user/colargol)
 - [chimel38](https://www.openstreetmap.org/user/chimel38)
 - [ArnoPoit](https://www.openstreetmap.org/user/ArnoPoit)
 - [tetsuosp](https://www.openstreetmap.org/user/tetsuosp)
