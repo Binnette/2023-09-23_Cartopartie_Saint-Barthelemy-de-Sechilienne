@@ -23,8 +23,8 @@ email: binnette@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Cartopartie du 23 septembre 2023 dans le village de Saint-Barthélemy-de-Séchilienne
   Organisée par le groupe de contributeurs OpenStreetMap de Grenoble.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+#baseurl: "" # the subpath of your site, e.g. /blog
+#url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: Binnette
 github_repo: 2023-09-23_Cartopartie_Saint-Barthelemy-de-Sechilienne
 
