@@ -6,34 +6,34 @@ layout: default
 ---
 
 # 2023-09-23 Cartopartie Saint-Barthélemy-de-Sechilienne
-Mapathon of 09/23/2023 at Saint-Barthélemy-de-Séchilienne:
+Mapathon of September 23, 2023 at Saint-Barthélemy-de-Séchilienne:
 
 - [🇫🇷 French version of this page](index.md)
-- [Info sur la cartopartie](https://wiki.openstreetmap.org/wiki/Cartopartie_Saint-Barth%C3%A9lemy-de-S%C3%A9chilienne_23-09-2023)
-- [Page Wikipédia du village](https://fr.wikipedia.org/wiki/Saint-Barth%C3%A9lemy-de-S%C3%A9chilienne)
+- [Info on the mapathon](https://wiki.openstreetmap.org/wiki/Cartopartie_Saint-Barth%C3%A9lemy-de-S%C3%A9chilienne_23-09-2023)
+- [Wikipedia page of the village](https://fr.wikipedia.org/wiki/Saint-Barth%C3%A9lemy-de-S%C3%A9chilienne)
 - [Info on generating before/after gifs](gifs.md)
 
 ## Mapathon report
 
-On this day of 09/23/2023, we were very warmly welcomed by the town hall staff and of course the mayor: Gilles Strappazzon. The mayor provided us with invaluable help by pointing out all the remarkable places in the village as well as all the hidden gems: fountains, wash houses, water channels and even a remarkable cherry tree:
+On this day of 23 September 2023, we were very warmly welcomed by the town hall staff and of course the mayor: Gilles Strappazzon. The mayor provided us with invaluable help by pointing out all the notables places in the village as well as all the hidden gems: fountains, wash houses, water channels and even a remarkable cherry tree:
 
 ![Remarkable cherry tree](photos/20230923_184617.jpg)
 
-We were welcomed in one of the brand new rooms adjoining the new town hall. After a good coffee kindly offered by the town hall and pastries brought by Paul, we started to divide up certain areas to map. This is how Nicolas and I went to the place called Ruines, where we were able to visit the Chapel of Saint-François Régis:
+We were welcomed in one of the brand new rooms adjoining the new town hall. After a good coffee kindly offered by the town hall and pastries brought by Paul, we started to divide up certain areas to map. This is how Nicolas and I went to the place called "Les Ruines", where we were able to visit the Chapel of Saint-François Régis:
 
-| Exterior View | Interior View |
+| Exterior view | Interior view |
 |:-------------:|:-------------:|
 | ![Exterior](photos/20230923_102246.jpg) | ![Interior](photos/20230923_102411.jpg) |
 
-On site, we of course used the excellent application [Every Door](https://wiki.openstreetmap.org/wiki/Every_Door) to add all the [POI](https://wiki.openstreetmap.org/wiki/FR:Points_d%27int%C3%A9r%C3%AAt) found on site: hiking signs, recycling containers, etc. Here is an animation centered on the Ruines neighborhood before/after the mapathon:
+On site, we of course used the excellent mobile application [Every Door](https://wiki.openstreetmap.org/wiki/Every_Door) to add all the [POI](https://wiki.openstreetmap.org/wiki/FR:Points_d%27int%C3%A9r%C3%AAt) found on site: hiking signs, recycling containers, etc. Here is an animation centered on "Les Ruines" neighborhood before/after the mapathon:
 
 ![Les Ruines](gif/CartoSBDS-007.gif)
 
-Subsequently, we dispatched a small car expedition in the town of Séchilienne. Objective, to map a bit of the area and go collect pizzas graciously offered by the association [OpenStreetMap France](https://www.openstreetmap.fr/). We were 5 walking through the streets of Séchiliennes, phone in hand to heat up [Every Door](https://wiki.openstreetmap.org/wiki/Every_Door), [StreetComplete](https://wiki.openstreetmap.org/wiki/StreetComplete) and [Vespucci](https://wiki.openstreetmap.org/wiki/Vespucci). We also recorded some GPS traces with [OsmAnd](https://wiki.openstreetmap.org/wiki/OsmAnd) to add a path between two neighborhoods of the city. Here is a comparison:
+Subsequently, we dispatched a small car expedition in the town of Séchilienne. Objective: to map a bit of the area and go collect pizzas graciously offered by the association [OpenStreetMap France](https://www.openstreetmap.fr/). We were 5 walking through the streets of Séchilienne, phone in hand to heat up [Every Door](https://wiki.openstreetmap.org/wiki/Every_Door), [StreetComplete](https://wiki.openstreetmap.org/wiki/StreetComplete) and [Vespucci](https://wiki.openstreetmap.org/wiki/Vespucci). We also recorded some GPS traces with [OsmAnd](https://wiki.openstreetmap.org/wiki/OsmAnd) to add a path between two neighborhoods of the city. Here is a comparison:
 
 ![Séchilienne](gif/CartoSBDS-305.gif)
 
-Subsequently, we drew this new path on [iD](https://wiki.openstreetmap.org/wiki/ID) once back in Saint-Barthélemy-de-Séchilienne to restore us:
+Once back in Saint-Barthélemy-de-Séchilienne, we used our GPS traces to drew this new path on [iD](https://wiki.openstreetmap.org/wiki/ID). Just before the time to restore us:
 
 ![Pizza time](photos/20230923_123752.jpg)
 
@@ -73,7 +73,7 @@ Towards Champ de la Cour:
 
 ![Champ de la Cour](gif/CartoSBDS-011.gif)
 
-Chemin sous le Broue :
+Path called "Chemin sous le Broue":
 
 ![Chemin sous le Broue](gif/CartoSBDS-012.gif)
 
@@ -91,7 +91,7 @@ OSM France rendering:
 
 During this mapathon, 179 roads (of all kinds) were added, including 50 tracks and 96 alleys, most of which are private driveways to access the various houses in the village.
 
-On the house number side (house number), we went from only 1 number listed to more than 94! A good step forward, but there is still work to be done.
+On the house number side, we went from only 1 number listed to more than 94! A good step forward, but there is still work to be done.
 
 Here are the detailed statistics that I generated via [Osmosis](https://wiki.openstreetmap.org/wiki/Osmosis):
 
@@ -174,7 +174,7 @@ Speaking of StreetComplete, I count more than [84 changesets](https://osmcha.org
 The site [resultmaps](https://resultmaps.neis-one.org/osm-changesets?comment=CartopartieSBDS#12/45.0373/5.8125) provides nice stats about the hashtag #CartopartieSBDS but only for the last 30 days. Here is the map of changesets traced by this tool:
 
 | Centered on the village | Wider view |
-|:-----------------------:|:--------------:|
+|:-----------------------:|:-----------:|
 |![Changesets on SNDS](changesets/ChangesetsOnSBDS.png)|![Wider view](changesets/LargeChangesetsOnSBDS.png)
 
 Graph of the number of changeset in pink (left y-axis) and the number of contributors (right y-axis):
