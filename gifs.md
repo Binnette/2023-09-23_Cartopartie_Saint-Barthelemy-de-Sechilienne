@@ -1,8 +1,8 @@
-# 2023-09-23_Cartopartie_Saint-Barthelemy-de-Sechilienne
-Cartopartie du 23/09/2023 à Saint-Barthélemy-de-Séchilienne
+# About the compare gifs
 
-- [Info about the event](https://wiki.openstreetmap.org/wiki/Cartopartie_Saint-Barth%C3%A9lemy-de-S%C3%A9chilienne_23-09-2023)
-- [Wikipedia page of the village](https://en.wikipedia.org/wiki/Saint-Barth%C3%A9lemy-de-S%C3%A9chilienne)
+Here you can find the script I wrote to generate the gifs:
+- [get_files.py](get_files.py): this script will query bigmap to ask map generation. Then you have to wait until bigmap created all the asked images. By running this script again, it will download the images and save them with the given suffix (a or b)
+- [make_gif.py](make_gif.py): this script take 2 png with suffix (a and b). Add a caption (avant/après) into them. And merge them together in an animated gif.
 
 ## Bigmap
 
