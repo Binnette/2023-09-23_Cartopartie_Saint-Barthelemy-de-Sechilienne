@@ -8,6 +8,7 @@ layout: default
 # 2023-09-23 Cartopartie Saint-Barthélemy-de-Sechilienne
 Cartopartie du 23/09/2023 à Saint-Barthélemy-de-Séchilienne
 
+- [🇬🇧 Version anglaise de cette page](index_en.md)
 - [Info sur la cartopartie](https://wiki.openstreetmap.org/wiki/Cartopartie_Saint-Barth%C3%A9lemy-de-S%C3%A9chilienne_23-09-2023)
 - [Page Wikipédia du village](https://en.wikipedia.org/wiki/Saint-Barth%C3%A9lemy-de-S%C3%A9chilienne)
 - [Infos sur la génération des gifs avant/après](gifs.md)

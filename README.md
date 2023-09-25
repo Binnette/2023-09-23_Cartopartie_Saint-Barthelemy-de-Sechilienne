@@ -1,6 +1,9 @@
 # 2023-09-23_Cartopartie_Saint-Barthelemy-de-Sechilienne
 
-Read the summary of the Mapping Party: [here](https://binnette.github.io/2023-09-23_Cartopartie_Saint-Barthelemy-de-Sechilienne/)
+Read the summary of the Mapping Party:
+
+- [🇫🇷 In French](https://binnette.github.io/2023-09-23_Cartopartie_Saint-Barthelemy-de-Sechilienne/)
+- [🇬🇧 In English](https://binnette.github.io/2023-09-23_Cartopartie_Saint-Barthelemy-de-Sechilienne/index_en.html)
 
 ## About compare gifs on the website 
 

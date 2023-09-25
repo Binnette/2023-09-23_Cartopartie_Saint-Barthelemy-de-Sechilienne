@@ -6,13 +6,14 @@ layout: default
 ---
 
 # 2023-09-23 Cartopartie Saint-Barthélemy-de-Sechilienne
-Cartopartie du 23/09/2023 à Saint-Barthélemy-de-Séchilienne
+Mapathon of 09/23/2023 at Saint-Barthélemy-de-Séchilienne:
 
+- [🇫🇷 French version of this page](index.md)
 - [Info sur la cartopartie](https://wiki.openstreetmap.org/wiki/Cartopartie_Saint-Barth%C3%A9lemy-de-S%C3%A9chilienne_23-09-2023)
 - [Page Wikipédia du village](https://fr.wikipedia.org/wiki/Saint-Barth%C3%A9lemy-de-S%C3%A9chilienne)
 - [Info on generating before/after gifs](gifs.md)
 
-## CMapathon report
+## Mapathon report
 
 On this day of 09/23/2023, we were very warmly welcomed by the town hall staff and of course the mayor: Gilles Strappazzon. The mayor provided us with invaluable help by pointing out all the remarkable places in the village as well as all the hidden gems: fountains, wash houses, water channels and even a remarkable cherry tree:
 
