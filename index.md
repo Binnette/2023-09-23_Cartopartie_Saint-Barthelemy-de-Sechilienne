@@ -125,7 +125,7 @@ Voici les statistiques détaillées que j'ai généré via Osmosis :
 |Murs                                       |0         |58        |58    |
 |Haies                                      |0         |85        |85    |
 |Numéros de rue                             |1         |94        |93    |
-|Mémorials                                  |0         |1         |1     |
+|Mémoriaux                                  |0         |1         |1     |
 |Croix historiques                          |0         |1         |1     |
 |Croix religieuses                          |1         |2         |1     |
 |Objets touristiques                        |19        |37        |18    |
@@ -178,7 +178,7 @@ Le site [resultmaps](https://resultmaps.neis-one.org/osm-changesets?comment=Cart
 
 Graphique du nombre de changeset en rose (axe y de gauche) et du nombre de contributeurs (axe y de droite):
 
-![Alt text](changesets/ChangesetsAndContributors.png)
+![Changeset et contributeurs](changesets/ChangesetsAndContributors.png)
 
 Voici les informations affichées par cet outil pour le tag #CartopartieSBDS :
 - Nombre de contributeurs : 5
