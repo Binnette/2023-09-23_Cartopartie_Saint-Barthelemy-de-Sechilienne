@@ -15,7 +15,7 @@ Cartopartie du 23/09/2023 à Saint-Barthélemy-de-Séchilienne
 
 ## Compte rendu de la cartopartie
 
-En cette journée du 23/09/2023, nous avons été très chaleureusement accueillis par le personnel de mairie et bien évidemment Monsieur le maire : Gilles Strappazzon. Mr le maire nous a apporté une aide précieuse en nous indiquant tous les lieux remarques du village ainsi que toutes les petites pépites cachées : fontaines, lavoirs, canaux d'eau et même un cerisier remarquable :
+En cette journée du 23/09/2023, nous avons été très chaleureusement accueillis par le personnel de mairie et bien évidemment Monsieur le maire : Gilles Strappazzon. Mr le maire nous a apporté une aide précieuse en nous indiquant tous les lieux remarquables du village ainsi que toutes les petites pépites cachées : fontaines, lavoirs, canaux d'eau et même un cerisier remarquable :
 
 ![Cerisier remarquable](photos/20230923_184617.jpg)
 
