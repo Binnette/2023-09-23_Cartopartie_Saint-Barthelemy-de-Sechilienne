@@ -20,7 +20,7 @@ En cette journée du 23 septembre 2023, nous avons été très chaleureusement a
 
 ![Cerisier remarquable](photos/20230923_184617.jpg)
 
-Nous avons été accueilli dans l'une des salles flambant neuve attenante à la nouvelle mairie. Après un bon café, offert par la mairie, et grignotages de viennoiseries apportées par Paul, nous avons commencé à nous répartir certaines zones à cartographier. C'est ainsi que Nicolas et moi-même sommes partis au lieu-dit des Ruines, où nous avons pu visiter la Chapelle Saint-François Régis :
+Nous avons été accueilli dans l'une des salles flambant neuve attenante à la nouvelle mairie. Après un bon café, offert par la mairie, et grignotages de viennoiseries, nous avons commencé à nous répartir certaines zones à cartographier. C'est ainsi que Nicolas et moi-même sommes partis au lieu-dit des Ruines, où nous avons pu visiter la Chapelle Saint-François Régis :
 
 | Vue extérieure | Vue intérieure |
 |:--------------:|:--------------:|
@@ -30,7 +30,7 @@ Sur place, nous avons bien sûr utilisé l'excellente application [Every Door](h
 
 ![Les Ruines](gif/CartoSBDS-007.gif)
 
-Par la suite, nous avons dépéché une petite expédition en voiture dans la ville de Séchilienne. Objectif, cartographier un peu la zone et aller collecter les pizzas gracieusement offertes par l'association [OpenStreetMap France](https://www.openstreetmap.fr/). Nous étions 5 à parcourir les rues de Séchilienne, téléphone à la main, à faire chauffer [Every Door](https://wiki.openstreetmap.org/wiki/Every_Door), [StreetComplete](https://wiki.openstreetmap.org/wiki/StreetComplete) et [Vespucci](https://wiki.openstreetmap.org/wiki/Vespucci). Nous avons également enregistré quelques traces GPS avec [OsmAnd](https://wiki.openstreetmap.org/wiki/OsmAnd) pour ajouter un chemin entre deux quartiers de la ville. Voici un comparatif :
+Par la suite, nous avons dépéché une petite expédition en voiture dans la ville de Séchilienne. Objectif, cartographier un peu la zone et aller collecter les pizzas pour notre pause déjeuner. Nous étions 5 à parcourir les rues de Séchilienne, téléphone à la main, à faire chauffer [Every Door](https://wiki.openstreetmap.org/wiki/Every_Door), [StreetComplete](https://wiki.openstreetmap.org/wiki/StreetComplete) et [Vespucci](https://wiki.openstreetmap.org/wiki/Vespucci). Nous avons également enregistré quelques traces GPS avec [OsmAnd](https://wiki.openstreetmap.org/wiki/OsmAnd) pour ajouter un chemin entre deux quartiers de la ville. Voici un comparatif :
 
 ![Séchilienne](gif/CartoSBDS-305.gif)
 
@@ -210,9 +210,9 @@ Une bien belle journée organisée d'une main de maître par Paul. Merci à tous
 - [cyril_leblanc](https://www.openstreetmap.org/user/cyril_leblanc)
 - [Binnette](https://www.openstreetmap.org/user/Binnette) (moi-même)
 
-Merci également à Mr le maire Gilles Strappazzon et au personnel de la mairie pour leur chaleureux accueil, les précieux renseignements, anecdotes et histoires partagés au cours de la journée.
+Merci à Mr le maire Gilles Strappazzon et au personnel de la mairie pour leur chaleureux accueil, les précieux renseignements, anecdotes et histoires partagés au cours de la journée.
 
-Merci également à [OpenStreetMap France](https://www.openstreetmap.fr/) pour le sponsoring qui a permis de payer notre repas du midi.
+Merci également à [OpenStreetMap France](https://www.openstreetmap.fr/) pour leur soutien lors de cet évènement.
 
 Une dernière petite animation montrant plus particulièrement les modifications de land-use :
 

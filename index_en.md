@@ -19,7 +19,7 @@ On this day of 23 September 2023, we were very warmly welcomed by the town hall 
 
 ![Remarkable cherry tree](photos/20230923_184617.jpg)
 
-We were welcomed in one of the brand new rooms adjoining the new town hall. After a good coffee kindly offered by the town hall and pastries brought by Paul, we started to divide up certain areas to map. This is how Nicolas and I went to the place called "Les Ruines", where we were able to visit the Chapel of Saint-François Régis:
+We were welcomed in one of the brand new rooms adjoining the new town hall. After a good coffee kindly offered by the town hall and pastries, we started to divide up certain areas to map. This is how Nicolas and I went to the place called "Les Ruines", where we were able to visit the Chapel of Saint-François Régis:
 
 | Exterior view | Interior view |
 |:-------------:|:-------------:|
@@ -29,7 +29,7 @@ On site, we of course used the excellent mobile application [Every Door](https:/
 
 ![Les Ruines](gif/CartoSBDS-007.gif)
 
-Subsequently, we dispatched a small car expedition in the town of Séchilienne. Objective: to map a bit of the area and go collect pizzas graciously offered by the association [OpenStreetMap France](https://www.openstreetmap.fr/). We were 5 walking through the streets of Séchilienne, phone in hand to heat up [Every Door](https://wiki.openstreetmap.org/wiki/Every_Door), [StreetComplete](https://wiki.openstreetmap.org/wiki/StreetComplete) and [Vespucci](https://wiki.openstreetmap.org/wiki/Vespucci). We also recorded some GPS traces with [OsmAnd](https://wiki.openstreetmap.org/wiki/OsmAnd) to add a path between two neighborhoods of the city. Here is a comparison:
+Subsequently, we dispatched a small car expedition in the town of Séchilienne. Objective: to map a bit of the area and go collect pizzas for our lunch break. We were 5 walking through the streets of Séchilienne, phone in hand to heat up [Every Door](https://wiki.openstreetmap.org/wiki/Every_Door), [StreetComplete](https://wiki.openstreetmap.org/wiki/StreetComplete) and [Vespucci](https://wiki.openstreetmap.org/wiki/Vespucci). We also recorded some GPS traces with [OsmAnd](https://wiki.openstreetmap.org/wiki/OsmAnd) to add a path between two neighborhoods of the city. Here is a comparison:
 
 ![Séchilienne](gif/CartoSBDS-305.gif)
 
@@ -211,7 +211,7 @@ A beautiful day masterfully organized by Paul. Thanks to all the contributors pr
 
 Also thanks to Mr Mayor Gilles Strappazzon and the town hall staff for their warm welcome, valuable information, anecdotes and stories shared throughout the day.
 
-Also thanks to [OpenStreetMap France](https://www.openstreetmap.fr/) for the financial sponsorship which allowed us to pay for our lunch.
+Also thanks to [OpenStreetMap France](https://www.openstreetmap.fr/) for the support for this event.
 
 One last little animation showing more particularly the modifications of land-use:
 
