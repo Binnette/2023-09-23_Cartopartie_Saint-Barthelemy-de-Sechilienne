@@ -34,7 +34,7 @@ Par la suite, nous avons dépéché une petite expédition en voiture dans la vi
 
 ![Séchilienne](gif/CartoSBDS-305.gif)
 
-De retour à Saint-Barthélemy-de-Séchilienne, nous avons utilisé les traces GPS pour déssiner ce nouveau chemin sur [iD](https://wiki.openstreetmap.org/wiki/ID). Juste avant de nous restaurer :
+De retour à Saint-Barthélemy-de-Séchilienne, nous avons utilisé les traces GPS pour dessiner ce nouveau chemin sur [iD](https://wiki.openstreetmap.org/wiki/ID). Juste avant de nous restaurer :
 
 ![Pizza time](photos/20230923_123752.jpg)
 
