@@ -89,28 +89,28 @@ OSM France rendering:
 
 ## A point on statistics
 
-During this mapathon, 179 roads (of all kinds) were added, including 50 tracks and 96 alleys, most of which are private driveways to access the various houses in the village.
+During this mapathon, 193 roads (of all kinds) were added, including 46 tracks and 101 alleys, most of which are private driveways to access the various houses in the village.
 
-On the house number side, we went from only 1 number listed to more than 94! A good step forward, but there is still work to be done.
+On the house number side, we went from only 1 number listed to more than 257! A really good job made by one of us: [chimel38](https://www.openstreetmap.org/user/chimel38).
 
 Here are the detailed statistics that I generated via [Osmosis](https://wiki.openstreetmap.org/wiki/Osmosis):
 
 |Objects                                    |2023-09-14|2023-09-23|Added |
 |-------------------------------------------|----------|----------|------|
-|Roads, tracks, etc.                        |235       |414       |179   |
-|Roads with name                            |69        |77        |8     |
-|Alleys                                     |9         |105       |96    |
-|Tracks                                     |31        |81        |50    |
-|Paths                                      |67        |89        |22    |
-|Gates                                      |1         |44        |43    |
+|Roads, tracks, etc.                        |235       |428       |193   |
+|Roads with name                            |69        |84        |15    |
+|Alleys                                     |9         |110       |101   |
+|Tracks                                     |31        |77        |46    |
+|Paths                                      |67        |91        |24    |
+|Gates                                      |1         |53        |52    |
 |Highway nodes (signs, pedestrian crossings)|11        |24        |13    |
 |Stop signs                                 |5         |6         |1     |
 |Give way                                   |0         |2         |2     |
 |Bus stops                                  |5         |5         |0     |
 |Pedestrian crossing                        |1         |2         |1     |
 |Shops                                      |0         |1         |1     |
-|Amenities                                  |21        |47        |26    |
-|Parkings                                   |1         |8         |7     |
+|Amenities                                  |21        |48        |27    |
+|Parkings                                   |1         |9         |8     |
 |Parking spaces                             |0         |1         |1     |
 |Parking nodes to convert to way            |0         |0         |0     |
 |Bike parkings                              |0         |2         |2     |
@@ -119,13 +119,13 @@ Here are the detailed statistics that I generated via [Osmosis](https://wiki.ope
 |Public bookcases                           |0         |0         |0     |
 |Libraries                                  |1         |1         |0     |
 |Places (hamlets, village, ...)             |17        |17        |0     |
-|Buildings                                  |572       |593       |21    |
+|Buildings                                  |572       |602       |30    |
 |Chapels                                    |1         |3         |2     |
 |Churches                                   |1         |1         |0     |
 |Shelters                                   |0         |1         |1     |
-|Walls                                      |0         |58        |58    |
-|Hedges                                     |0         |85        |85    |
-|Street numbers                             |1         |94        |93    |
+|Walls                                      |0         |64        |64    |
+|Hedges                                     |0         |87        |87    |
+|Street numbers                             |1         |257       |256   |
 |Memorials                                  |0         |1         |1     |
 |Historical crosses                         |0         |1         |1     |
 |Religious crosses                          |1         |2         |1     |
@@ -144,13 +144,14 @@ Here are the detailed statistics that I generated via [Osmosis](https://wiki.ope
 |Pedestrian trash cans                      |0         |1         |1     |
 |Trash container                            |0         |1         |1     |
 |Viewpoints                                 |6         |7         |1     |
-|Trees                                      |26        |54        |28    |
-|Rows of trees                              |0         |6         |6     |
+|Trees                                      |26        |78        |52    |
+|Trees with genus                           |0         |15        |15    |
+|Rows of trees                              |0         |12        |12    |
 |Hiking/biking signs                        |12        |18        |6     |
 |Maps/plans                                 |1         |1         |0     |
 |Picnic tables                              |0         |1         |1     |
 |Playgrounds                                |0         |0         |0     |
-|Sports fields/Equipment                    |1         |3         |2     |
+|Sports fields/Equipment                    |1         |4         |3     |
 |Swimming pools                             |8         |36        |28    |
 |Fire hydrants                              |0         |13        |13    |
 |Craftsmen                                  |0         |1         |1     |

@@ -35,7 +35,8 @@ count=$(osmosis -q --read-xml $input_file --tf accept-ways highway=* --write-xml
 echo "Highways (way);Routes, pistes, etc.;$count" >> output.csv
 
 # Run Osmosis to count the number of highways in the input file
-count=$(osmosis -q --read-xml $input_file --tf accept-ways highway=* --write-xml - | osmosis -q --read-xml - --tf accept-ways name=* --write-xml - | egrep '<way ' | wc -l)
+count=$(osmosis -q --read-xml $input_file --tf accept-ways highway=* --write-xml - \
+| osmosis -q --read-xml - --tf accept-ways name=* --write-xml - | egrep '<way ' | wc -l)
 echo "Highways with name (way);Routes avec nom;$count" >> output.csv
 
 # Run Osmosis to count the number of driveway in the input file
@@ -221,6 +222,11 @@ echo "Viewpoints;Points de vue;$count" >> output.csv
 # Count the number of tourism=viewpoint in the input file
 count=$(osmosis -q --read-xml $input_file --tf accept-nodes natural=tree --write-xml - | egrep '<node ' | wc -l)
 echo "Trees;Arbres;$count" >> output.csv
+
+# Count the number of tourism=viewpoint in the input file
+count=$(osmosis -q --read-xml $input_file --tf accept-nodes natural=tree --write-xml - \
+| osmosis -q --read-xml - --tf accept-nodes genus=* --write-xml - | egrep '<node ' | wc -l)
+echo "Trees with genus;Arbres avec genre;$count" >> output.csv
 
 # Count the number of tourism=viewpoint in the input file
 count=$(osmosis -q --read-xml $input_file --tf accept-ways natural=tree_row --write-xml - | egrep '<way ' | wc -l)

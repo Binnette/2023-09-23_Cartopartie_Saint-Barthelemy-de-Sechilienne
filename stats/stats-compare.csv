@@ -1,40 +1,40 @@
-Objects;2023-09-14;2023-09-23;Ajouts
-Routes, pistes, etc.;235;414;179
-Routes avec nom;69;77;8
-Allées;9;105;96
-Pistes;31;81;50
-Chemins;67;89;22
-Portails;1;44;43
-Noeuds highway (panneaux, passages piétons);11;24;13
+Objets;2023-09-14;2023-09-26;Ajouts
+Routes, pistes, etc.;235;428;193
+Routes avec nom;69;84;15
+Allées;9;110;101
+Pistes;31;77;46
+Chemins;67;91;24
+Portails;1;53;52
+Nœuds highway (panneaux, passages piétons);11;24;13
 Panneaux de stop;5;6;1
 Cédez le passage;0;2;2
-Arrêt de bus;5;5;0
+Arrêts de bus;5;5;0
 Passage piéton;1;2;1
 Magasins;0;1;1
-Aménités;21;47;26
-Parkings;1;8;7
+Aménités;21;48;27
+Parkings;1;9;8
 Places de parking;0;1;1
-Noeuds parking à convertir en way;0;0;0
+Nœuds parking à convertir en way;0;0;0
 Parkings à vélo;0;2;2
 Pistes cyclables dédiées;6;6;0
 Lignes cyclables;15;15;0
 Microbibliothèques;0;0;0
 Bibliothèques;1;1;0
 Lieux (hameaux, village, ...);17;17;0
-Bâtiments;572;593;21
+Bâtiments;572;602;30
 Chapelles;1;3;2
 Églises;1;1;0
 Abris;0;1;1
-Murs;0;58;58
-Haies;0;85;85
-Numéros de rue;1;94;93
-Mémorials;0;1;1
+Murs;0;64;64
+Haies;0;87;87
+Numéros de rue;1;257;256
+Mémoriaux;0;1;1
 Croix historiques;0;1;1
 Croix religieuses;1;2;1
 Objets touristiques;19;37;18
 Points d'eau potable;10;1;-9
 Containers de recyclage;1;3;2
-Ecoles;1;1;0
+Écoles;1;1;0
 Boites aux lettres jaunes;1;1;0
 Fontaines;0;7;7
 Lavoirs;0;4;4
@@ -44,15 +44,15 @@ Panneaux d'information;0;2;2
 Bancs;0;6;6
 Lampadaires;0;9;9
 Poubelles pour piétons;0;1;1
-Container poubelle;0;1;1
+Containers poubelle;0;1;1
 Points de vue;6;7;1
-Arbres;26;54;28
-Rangées d'arbres;0;6;6
+Arbres;26;78;52
+Rangées d'arbres;0;12;12
 Panneaux de randonnée/vélo;12;18;6
 Cartes/plans;1;1;0
 Tables de pique-nique;0;1;1
 Aires de jeux;0;0;0
-Terrains/Equipements sportifs;1;3;2
+Terrains/Équipements sportifs;1;4;3
 Piscines;8;36;28
 Bouches à incendie;0;13;13
 Artisans;0;1;1

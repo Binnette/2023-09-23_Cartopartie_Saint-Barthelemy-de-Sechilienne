@@ -90,43 +90,43 @@ Rendu "Humanitaire" :
 
 ## Un point sur les statistiques
 
-Lors de cette cartopartie, 179 routes (en tout genre) ont été ajoutées, dont 50 pistes et 96 allées, la plupart étant des allées privées permettant d'accéder aux différentes habitations du village.
+Lors de cette cartopartie, 193 routes (en tout genre) ont été ajoutées, dont 46 pistes et 101 allées, la plupart étant des allées privées permettant d'accéder aux différentes habitations du village.
 
-Côté numéros de rue (numéros de maison), nous sommes passé de 1 seul numéro renseigné à plus de 94 ! Un bon pas en avant, mais il reste du travail.
+Côté numéros de rue (numéros de maison), nous sommes passé de 1 seul numéro renseigné à plus de 257 ! Un superbe travail réalisé par l'un des membre de l'équipe : [chimel38](https://www.openstreetmap.org/user/chimel38).
 
 Voici les statistiques détaillées que j'ai généré via [Osmosis](https://wiki.openstreetmap.org/wiki/Osmosis) :
 
-|Objects                                    |2023-09-14|2023-09-23|Ajouts|
+|Objets                                     |2023-09-14|2023-09-26|Ajouts|
 |-------------------------------------------|----------|----------|------|
-|Routes, pistes, etc.                       |235       |414       |179   |
-|Routes avec nom                            |69        |77        |8     |
-|Allées                                     |9         |105       |96    |
-|Pistes                                     |31        |81        |50    |
-|Chemins                                    |67        |89        |22    |
-|Portails                                   |1         |44        |43    |
-|Nœuds highway (panneaux, passages piétons)|11        |24        |13    |
+|Routes, pistes, etc.                       |235       |428       |193   |
+|Routes avec nom                            |69        |84        |15    |
+|Allées                                     |9         |110       |101   |
+|Pistes                                     |31        |77        |46    |
+|Chemins                                    |67        |91        |24    |
+|Portails                                   |1         |53        |52    |
+|Nœuds highway (panneaux, passages piétons) |11        |24        |13    |
 |Panneaux de stop                           |5         |6         |1     |
 |Cédez le passage                           |0         |2         |2     |
 |Arrêts de bus                              |5         |5         |0     |
 |Passage piéton                             |1         |2         |1     |
 |Magasins                                   |0         |1         |1     |
-|Aménités                                   |21        |47        |26    |
-|Parkings                                   |1         |8         |7     |
+|Aménités                                   |21        |48        |27    |
+|Parkings                                   |1         |9         |8     |
 |Places de parking                          |0         |1         |1     |
-|Nœuds parking à convertir en way          |0         |0         |0     |
+|Nœuds parking à convertir en way           |0         |0         |0     |
 |Parkings à vélo                            |0         |2         |2     |
 |Pistes cyclables dédiées                   |6         |6         |0     |
 |Lignes cyclables                           |15        |15        |0     |
 |Microbibliothèques                         |0         |0         |0     |
 |Bibliothèques                              |1         |1         |0     |
 |Lieux (hameaux, village, ...)              |17        |17        |0     |
-|Bâtiments                                  |572       |593       |21    |
+|Bâtiments                                  |572       |602       |30    |
 |Chapelles                                  |1         |3         |2     |
 |Églises                                    |1         |1         |0     |
 |Abris                                      |0         |1         |1     |
-|Murs                                       |0         |58        |58    |
-|Haies                                      |0         |85        |85    |
-|Numéros de rue                             |1         |94        |93    |
+|Murs                                       |0         |64        |64    |
+|Haies                                      |0         |87        |87    |
+|Numéros de rue                             |1         |257       |256   |
 |Mémoriaux                                  |0         |1         |1     |
 |Croix historiques                          |0         |1         |1     |
 |Croix religieuses                          |1         |2         |1     |
@@ -145,13 +145,14 @@ Voici les statistiques détaillées que j'ai généré via [Osmosis](https://wik
 |Poubelles pour piétons                     |0         |1         |1     |
 |Containers poubelle                        |0         |1         |1     |
 |Points de vue                              |6         |7         |1     |
-|Arbres                                     |26        |54        |28    |
-|Rangées d'arbres                           |0         |6         |6     |
+|Arbres                                     |26        |78        |52    |
+|Arbres avec genre                          |0         |15        |15    |
+|Rangées d'arbres                           |0         |12        |12    |
 |Panneaux de randonnée/vélo                 |12        |18        |6     |
 |Cartes/plans                               |1         |1         |0     |
 |Tables de pique-nique                      |0         |1         |1     |
 |Aires de jeux                              |0         |0         |0     |
-|Terrains/Equipements sportifs              |1         |3         |2     |
+|Terrains/Équipements sportifs              |1         |4         |3     |
 |Piscines                                   |8         |36        |28    |
 |Bouches à incendie                         |0         |13        |13    |
 |Artisans                                   |0         |1         |1     |
