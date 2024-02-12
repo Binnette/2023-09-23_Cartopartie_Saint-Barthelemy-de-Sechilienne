@@ -23,20 +23,18 @@ email: binnette@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Cartopartie du 23 septembre 2023 dans le village de Saint-Barthélemy-de-Séchilienne
   Organisée par le groupe de contributeurs OpenStreetMap de Grenoble.
-#baseurl: "" # the subpath of your site, e.g. /blog
-#url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: Binnette
 github_repo: 2023-09-23_Cartopartie_Saint-Barthelemy-de-Sechilienne
 
-# Build settings
-#theme: minima
-#theme: jekyll-map-theme
-
 remote_theme: Binnette/jekyll-map-theme
+
+jekyll-map-theme:
+  # Use this parameter to change the image background
+  # Possible values: map-icons, rtk or camera
+  background_image: map-icons
 
 plugins:
   - jekyll-remote-theme
-#  - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default.
